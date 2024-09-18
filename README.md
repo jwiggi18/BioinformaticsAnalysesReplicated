@@ -1,1 +1,2 @@
 # BioinformaticsAnalysesReplicated
+Practice with bioinformatics by repliccating published analyses
